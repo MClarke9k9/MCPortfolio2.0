@@ -10,7 +10,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Mark",
+  title2: "Mark Clarke",
   logo_name: "mark.C()",
   nickname: "AI / Kobe",
   full_name: "Mark Clarke",
@@ -383,7 +383,8 @@ const experience = {
           logo_path: "incluvie.jpg",
           duration: "Apr 2021 - Jun 2021",
           location: "Remote",
-          description: ".",
+          description:
+            "My time as Software Engineer Intern for Incluvie really helped me get better in a team environment and taught on how to fix bugs and implement different changes in a large codebase. Also gave me a better understanding of a product with many users and creating solutions to enhance the users experience. ",
           color: "#0071C5",
         },
         {
@@ -393,7 +394,8 @@ const experience = {
           logo_path: "dna.jpg",
           duration: "Jan 2021 - Apr 2021",
           location: "Remote",
-          description: ".",
+          description:
+            "Being the only Web Developer on contract for DNA Masks and More truly increase my ability to critical think of fast and effective solutions. This role also improve my understanding of many  different third party software's being used in one companies codebase.",
           color: "#ee3c26",
         },
         {
@@ -403,7 +405,8 @@ const experience = {
           logo_path: "hqd.jpg",
           duration: "Jan 2021 - Apr 2021",
           location: "Remote",
-          description: ".",
+          description:
+            "Becoming a Junior Web Developer for HQD Tech USA gave me my first insight on web development for multiple different vendors. This role taught me to importance of testing and running my software before I deployed it for the customer, also helped me learn how to communicate with Lead Developers and the customers.",
           color: "#ee3c26",
         },
       ],
@@ -419,61 +422,61 @@ const experience = {
     //       duration: "",
     //       location: "",
     //       description:
-    //         "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+    //         "",
     //       color: "#4285F4",
     //     },
     //     {
-    //       title: "Campus Hustler",
-    //       company: "Skillenza",
-    //       company_url: "https://skillenza.com/",
-    //       logo_path: "skillenza.png",
-    //       duration: "Feb 2021 - Present",
-    //       location: "Work from Home",
-    //       description: "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
+    //       title: "",
+    //       company: "",
+    //       company_url: "",
+    //       logo_path: "",
+    //       duration: "",
+    //       location: "",
+    //       description: "",
     //       color: "#196acf",
     //     },
     //     {
-    //       title: "GitHub Student Developer",
-    //       company: "GitHub",
-    //       company_url: "https://github.com/",
-    //       logo_path: "github.png",
-    //       duration: "Nov 2019 - Present",
-    //       location: "Work from Home",
+    //       title: "",
+    //       company: "",
+    //       company_url: "",
+    //       logo_path: "",
+    //       duration: "",
+    //       location: "",
     //       description:
-    //       "Contribute to Open Source Community and Open Source Project.",
+    //       "",
     //       color: "#040f26",
     //     },
     //     {
-    //       title: "Google Local Guide",
-    //       company: "Google Map",
-    //       company_url: "https://maps.google.com/localguides/",
-    //       logo_path: "localguide.png",
-    //       duration: "Sep 2018 - Present",
-    //       location: "Work From Home",
+    //       title: "",
+    //       company: "",
+    //       company_url: "",
+    //       logo_path: "",
+    //       duration: "",
+    //       location: "",
     //       description:
-    //         "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
+    //         "",
     //       color: "#D83B01",
     //     },
     //     {
-    //       title: "GDG Student Volunteer",
-    //       company: "Google Developer Groups",
-    //       company_url: "https://gdg.community.dev/",
-    //       logo_path: "gdg.png",
-    //       duration: "Feb 2021 - Present",
-    //       location: "Work From Home",
+    //       title: "",
+    //       company: "",
+    //       company_url: "",
+    //       logo_path: "",
+    //       duration: "",
+    //       location: "",
     //       description:
-    //         "Google Developer Group Surat Student Volunteer and Member.",
+    //         "",
     //       color: "#D83B01",
     //     },
     //     {
-    //       title: "E. F. I. Student Volunteer",
-    //       company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-    //       company_url: "https://indiaenvironment.org/",
-    //       logo_path: "efi.png",
-    //       duration: "Apr 2017 - Present",
-    //       location: "Work From Home",
+    //       title: "",
+    //       company: "",
+    //       company_url: "",
+    //       logo_path: "",
+    //       duration: "",
+    //       location: "",
     //       description:
-    //         "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
+    //         "",
     //       color: "#5a900f",
     //     },
     //   ],
@@ -510,73 +513,92 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "AutomateInstaPyBot",
-      url: "",
+      name: "AlgoSorter",
+      url: "https://mclarke9k9.github.io/AlgoSorter/",
       description:
-        "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
+        "This Application showcases my front-end development skills & my understanding of Sorting Algorithms.",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "HTML5",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
         },
       ],
     },
     {
       id: "1",
-      name: "react-twitter-clone",
-      url: "",
+      name: "GetFit",
+      url: "https://getfit2.herokuapp.com/",
       description:
-        "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
+        "A MERN Stack Application that helps you track your fitness goals day by day with User Authentication",
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          iconifyClass: "logos-html-5",
         },
         {
           name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          iconifyClass: "logos-css-3",
         },
         {
           name: "React",
           iconifyClass: "logos-react",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
         },
       ],
     },
     {
       id: "2",
-      name: "node-blockchain",
-      url: "",
+      name: "My K-means",
+      url: "https://mclarke9k9.github.io/My-Kmeans/",
       description:
-        "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
+        "This is my front-end development, visualization, and understanding of the K-means Algorithm.",
       languages: [
         {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "HTML5",
+          iconifyClass: "logos-html-5",
         },
         {
-          name: "TypeScript",
-          iconifyClass: "logos-typescript",
+          name: "CSS3",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "Javascript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
     {
       id: "3",
-      name: "top-crypto-gainers",
-      url: "",
-      description:
-        "A top high price changed crypto coins wring 24 hoursA sound-classifier webapp made with ReactJS + TensorflowJS.",
+      name: "Old Portfolio",
+      url: "https://marksweetportfolio.herokuapp.com/",
+      description: "This my MERN stack Portfolio.",
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          iconifyClass: "logos-html-5",
         },
         {
           name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          iconifyClass: "logos-css-3",
         },
         {
           name: "JavaScript",
@@ -586,43 +608,80 @@ const projects = {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
+        },
       ],
     },
     {
       id: "4",
-      name: "personal-portfolio",
-      url: "",
+      name: "Weather Dashboard 2.0",
+      url: "https://mclarke9k9.github.io/WeatherDashboard2.0/",
       description:
-        "A simple command line interface based quiz app to know more about me :).",
+        "This is React Version of my previous WeatherDashboard Application.",
       languages: [
         {
-          name: "JavaScript",
+          name: "HTML5",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "Sass",
+          iconifyClass: "logos-sass",
+        },
+        {
+          name: "Javascript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
         },
       ],
     },
     {
       id: "3",
-      name: "node_express_crud_api_starter",
-      url: "",
-      description: "Simple NodeJS Express CRUD Operations API starter.",
+      name: "Subtrack",
+      url: "https://glacial-shore-36326.herokuapp.com/",
+      description:
+        "This applications intention was to help people keep track of their subscriptions along with how much it was costing them per month to help them with their budgeting.",
       languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "logos-html-5",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "logos-css-3",
+        },
+        {
+          name: "Javascript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
         {
           name: "NodeJS",
           iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "MySQL",
+          iconifyClass: "logos-mysql",
         },
       ],
     },
     {
       id: "4",
-      name: "node-web-scrapper",
-      url: "",
+      name: "User Directory",
+      url: "https://mclarke9k9.github.io/UserDirectory/",
       description:
-        "A Simple web scrapper that scrap the information of amazon products such as price.It also scrap Wikipedia Data such as birthdate.",
+        "This Application showcases my skills on importing data from third party API, also implement a search bar in order to filter through the Users.",
       languages: [
         {
           name: "HTML5",
@@ -633,87 +692,72 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "NodeJs",
-          iconifyClass: "logos-nodejs",
+          name: "Javascript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
         },
       ],
     },
     {
       id: "5",
-      name: "",
-      url: "",
+      name: "Hava-Burger",
+      url: "https://fast-retreat-55192.herokuapp.com/",
       description:
-        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
+        "This application helped me learn how to use ORMs such as Sequelize and software design patterns like MVC.",
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          iconifyClass: "logos-html-5",
         },
         {
           name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          iconifyClass: "logos-css-3",
         },
         {
-          name: "JavaScript",
+          name: "Javascript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "SCSS",
-          iconifyClass: "vscode-icons:file-type-scss2",
+          name: "React",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-sequelize",
+        },
+        {
+          name: "MySQL",
+          iconifyClass: "logos-mysql",
         },
       ],
     },
     {
       id: "6",
-      name: "Automate Attendace",
-      url: "https://github.com/harikanani/Node_Python",
-      description: "Automation of Online Attendance using node js and python",
+      name: "README Generator",
+      url: "https://github.com/MClarke9k9/README-For-You",
+      description:
+        "A NodeJS script that generates a README markdown file through the command prompt automatically.",
       languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
         },
       ],
     },
     {
       id: "7",
-      name: "Automate Discord Bot",
-      url: "https://github.com/harikanani/AutomateDiscordBot",
+      name: "GridHighlighter",
+      url: " https://mclarke9k9.github.io/GridHighlighter/",
       description:
-        "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
+        "This is a quick project I created to boost my vanilla Javascript skills, Enjoy!",
       languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Python Selenium",
-          iconifyClass: "logos-selenium",
-        },
-        {
-          name: "Chromium Browser",
-          iconifyClass: "openmoji-chromium",
-        },
-      ],
-    },
-    {
-      id: "8",
-      name: "Flask Blog",
-      url: "https://github.com/harikanani/flask_blog",
-      description: "A Simple Blog Web Application made using Flask Framework",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
-        },
         {
           name: "HTML5",
           iconifyClass: "vscode-icons:file-type-html",
@@ -722,79 +766,9 @@ const projects = {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
         },
-      ],
-    },
-    {
-      id: "9",
-      name: "Netflix top series",
-      url: "https://github.com/harikanani/netflix-top-series",
-      description: "List of Top Netflix Series which is deployed to vercel.",
-      languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-      ],
-    },
-    {
-      id: "10",
-      name: "COVID-19 Tracker",
-      url: "https://github.com/harikanani/Covid19TrackerReact",
-      description:
-        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-      ],
-    },
-    {
-      id: "11",
-      name: "Food Order Static Website",
-      url: "https://github.com/harikanani/food-order-website",
-      description:
-        "A simple static website related to food restaurants service. this is reasponsive as well.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "PHP",
-          iconifyClass: "logos-php",
         },
       ],
     },
