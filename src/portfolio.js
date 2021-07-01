@@ -685,11 +685,11 @@ const projects = {
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          iconifyClass: "logos-html-5",
         },
         {
           name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          iconifyClass: "logos-css-3",
         },
         {
           name: "Javascript",
@@ -760,11 +760,11 @@ const projects = {
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
+          iconifyClass: "logos-html-5",
         },
         {
           name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
+          iconifyClass: "logos-css-3",
         },
         {
           name: "JavaScript",
