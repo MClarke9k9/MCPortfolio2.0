@@ -25,9 +25,9 @@ const socialMediaLinks = {
   github: "https://github.com/mclarke9k9",
   linkedin: "https://www.linkedin.com/in/mark-clarke-05135a1a8/",
   gmail: "MClarke9k9@yahoo.com",
-  gitlab: "https://gitlab.com/",
+  gitlab: "https://gitlab.com/MClarke9k9",
   facebook: "https://www.facebook.com/MClarke9k9/",
-  twitter: "https://twitter.com/",
+  twitter: "https://twitter.com/https://twitter.com/MarkCla30731083",
   instagram: "https://www.instagram.com/captianclarke/",
 };
 
