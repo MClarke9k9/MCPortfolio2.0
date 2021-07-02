@@ -496,7 +496,7 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Dev.to.",
+      "I don't blog frequently, but when I do something awesome I document it so it can be helpful to others. I write on Dev.to.",
     link: "https://dev.to/mclarke9k9",
     avatar_image_path: "blogs_image.svg",
   },
