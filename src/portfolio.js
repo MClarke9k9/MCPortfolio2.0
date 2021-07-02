@@ -363,7 +363,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for work. I love organizing workshops to share my knowledge with others.",
+    "I've worked as a software engineer intern and a web developer on several projects. Besides this, I also work my own projects, and I'm actively looking for new opportunities. I love organizing workshops and sharing my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -396,7 +396,7 @@ const experience = {
           company: "HQD Tech USA",
           company_url: "",
           logo_path: "hqd.jpg",
-          duration: "Jan 2021 - Apr 2021",
+          duration: "Nov 2021 - Apr 2021",
           location: "Remote",
           description:
             "Becoming a Junior Web Developer for HQD Tech USA gave me my first insight on web development for multiple different vendors. This role taught me to importance of testing and running my software before I deployed it for the customer, also helped me learn how to communicate with Lead Developers and the customers.",
@@ -481,7 +481,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, REST APIs, and React Projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of the latest technologies, utilizing a variety of cutting edge tools to produce the best results possible. I have extensive experience with NodeJS Backend Projects, REST APIs, and React Projects. Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
