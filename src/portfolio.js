@@ -9,12 +9,12 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
+  title: "",
   title2: "Mark Clarke",
   logo_name: "mark.C()",
   nickname: "AI / Kobe",
   full_name: "Mark Clarke",
-  subTitle: "Software Engineer, REST API Expert 🔥. Always learning.",
+  subTitle: "Software Engineer, REST API Expert. Always learning.",
   resumeLink:
     "https://docs.google.com/document/d/1OS-0p5zoaT1HHUy0wJeq8jvsqs3fD652uYxpF5yKXao/edit?usp=sharing",
   mail: "MClarke9k9@yahoo.com",
