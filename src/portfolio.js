@@ -481,7 +481,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of the latest technologies, utilizing a variety of cutting edge tools to produce the best results possible. I have extensive experience with NodeJS Backend Projects, REST APIs, and React Projects. Below are some of my projects.",
+    "My projects make use of the latest technologies, utilizing a variety of cutting edge tools to produce the best results possible. I have extensive experience with Backend Projects, REST APIs, and React Projects. Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
