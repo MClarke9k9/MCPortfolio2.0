@@ -115,13 +115,13 @@ const skills = {
         //     color: "#3DDC84",
         //   },
         // },
-        // {
-        //   skillName: "Java",
-        //   fontAwesomeClassname: "simple-icons:java",
-        //   style: {
-        //     color: "#f89820",
-        //   },
-        // },
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "simple-icons:java",
+          style: {
+            color: "#f89820",
+          },
+        },
         // {
         //   skillName: "Flutter",
         //   fontAwesomeClassname: "simple-icons:flutter",
