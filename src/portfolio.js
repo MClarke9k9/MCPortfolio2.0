@@ -40,7 +40,7 @@ const skills = {
         "⚡ Develop highly interactive Front end / User Interfaces for your web",
         "⚡ Building responsive website front end using ReactJS",
         // "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Creating application backend in Node, Express, Java & Flask",
         "⚡ Integration of third party services such as Firebase/ AWS / Google Cloud",
       ],
       softwareSkills: [
@@ -120,6 +120,13 @@ const skills = {
           fontAwesomeClassname: "simple-icons:java",
           style: {
             color: "#f89820",
+          },
+        },
+        {
+          skillName: "Springboot",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#6DB33F",
           },
         },
         // {
@@ -381,7 +388,7 @@ const experience = {
           color: "#0071C5",
         },
         {
-          title: "Software Engineer (Intern)",
+          title: "Software Engineer Intern",
           company: "Incluvie",
           company_url: "https://www.incluvie.com/",
           logo_path: "incluvie.jpg",
