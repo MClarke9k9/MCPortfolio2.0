@@ -370,6 +370,17 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer II",
+          company: "snapIoT (LabCorp)",
+          company_url: "https://snapiot.com/",
+          logo_path: "snapiot.jpg",
+          duration: "Oct 2021 - Present",
+          location: "Remote",
+          description:
+            "•Developed software solutions using company software•Designed, coded, and debugged applications in various software languages•Worked with project manager and product owners to meet specific needs•Collaborated with other developers to design and optimize software used•Followed software development lifecycle•Documented and maintained software functionality•Gained knowledge of professional software engineering and best practices for full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations•Experienced in Scrum/Agile development methodologies•Acquired familiarity with continuous integration and deployment processes•Used strong analytical and critical thinking skills",
+          color: "#0071C5",
+        },
+        {
           title: "Software Engineer (Intern)",
           company: "Incluvie",
           company_url: "https://www.incluvie.com/",
@@ -378,7 +389,7 @@ const experience = {
           location: "Remote",
           description:
             "My time as Software Engineer Intern for Incluvie really helped me get better in a team environment and taught on how to fix bugs and implement different changes in a large codebase. Also gave me a better understanding of a product with many users and creating solutions to enhance the users experience. ",
-          color: "#0071C5",
+          color: "#ee3c26",
         },
         {
           title: "Web Developer (Contract)",
@@ -389,7 +400,7 @@ const experience = {
           location: "Remote",
           description:
             "Being the only Web Developer on contract for DNA Masks and More truly increase my ability to critical think of fast and effective solutions. This role also improve my understanding of many  different third party software's being used in one companies codebase.",
-          color: "#ee3c26",
+          color: "#0071C5",
         },
         {
           title: "Web Developer (Contract)",
