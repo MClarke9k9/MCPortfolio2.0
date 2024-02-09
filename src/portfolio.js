@@ -39,7 +39,6 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web",
         "⚡ Building responsive website front end using ReactJS",
-        // "⚡ Developing mobile applications using Flutter and Android",
         "⚡ Creating application backend in Node, Express, Java & Flask",
         "⚡ Integration of third party services such as Firebase/ AWS / Google Cloud",
       ],
@@ -58,14 +57,6 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#FFFFFF",
-            color: "#F7DF1E",
-          },
-        },
         // {
         //   skillName: "PHP",
         //   fontAwesomeClassname: "simple-icons:php",
@@ -82,9 +73,17 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "devicon:nodejs-wordmark",
           style: {
-            color: "#339933",
+            backgroundColor: "",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "Typescript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            color: "#3178C6",
           },
         },
         {
@@ -117,7 +116,7 @@ const skills = {
         // },
         {
           skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
+          fontAwesomeClassname: "skill-icons:java-light",
           style: {
             color: "#f89820",
           },
@@ -287,81 +286,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   // color_code: "#2AAFED",
-    //   color_code: "#47A048",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   color_code: "#E2405F",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   // color_code: "#F6B808",
-    //   color_code: "#47A048",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   color_code: "#2AAFED",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   color_code: "#fe0037",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   color_code: "#2AAFED",
-    // },
-    // {
-    //   title: "",
-    //   subtitle: "",
-    //   logo_path: "",
-    //   certificate_link:
-    //     "",
-    //   alt_name: "",
-    //   // color_code: "",
-    //   color_code: "#fffbf3",
-    // },
-    // color_code: "#8C151599",
-    // color_code: "#7A7A7A",
-    // color_code: "#0C9D5899",
-    // color_code: "#C5E2EE",
-    // color_code: "#ffc475",
-    // color_code: "#g",
-    // color_code: "#ffbfae",
-    // color_code: "#fffbf3",
-    // color_code: "#b190b0",
+    {
+      title: "huh",
+      subtitle: "",
+      logo_path: "",
+      certificate_link: "",
+      alt_name: "",
+      // color_code: "#2AAFED",
+      color_code: "#47A048",
+    },
   ],
 };
 
@@ -377,14 +310,36 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Technical Support Engineer",
+          company: "ServiceNow",
+          company_url: "https://servicenow.com/",
+          logo_path: "servicenow.jpg",
+          duration: "Aug 2022 - Feb 2024",
+          location: "Remote",
+          description:
+            "• Demonstrated fluid ability to troubleshoot, resolve and provide code level analysis for complex technical issues.\n• In-depth understanding of how SaaS products work – possess a deep technical understanding as well as a basic understanding of integrated systems.\n• Working knowledge of the components in a web applications stack.\n• Demonstrated ownership and coordinated successfully with engineering and escalation teams to achieve resolution of customer issues and requests.\n• Experience in several development projects coding in Java and troubleshooting large applications built on Java.\n• Proven ability to maintain focus and work effectively with uncompromising attention to detail.\n• Ability to work closely with high-value customer administrators and developers that have a variety of experience and skillset.\n• Excellent time management skills and able to work independently to provide workable solutions.\n• Performed thorough research to successfully resolve or quickly escalate customer inquiries for quick solution.\n• Ability to work with other teams to resolve cases.\n• Excellent technical and communication skills for research and discovery to clearly articulate solutions to complex technical problems.\n•Identified and helped resolve trends with application issues and knowledge gaps within the organization.",
+          color: "#0071C5",
+        },
+        {
+          title: "Back End Engineer",
+          company: "undefined.ai",
+          company_url: "",
+          logo_path: "undefiniedai.jpg",
+          duration: "Mar 2022 - May 2022",
+          location: "Remote",
+          description:
+            "Work in the entire lifecycle of the code, from user stories to tests to code to release.\n•Troubleshoot and debug code and back end issues.\n•Write unit and integration tests with a TDD approach (red, green, refactor).\n•Implement various third-party APIs and services in the backend to further advance the user experience.",
+          color: "#ee3c26",
+        },
+        {
           title: "Software Engineer II",
           company: "snapIoT (LabCorp)",
           company_url: "https://snapiot.com/",
           logo_path: "snapiot.jpg",
-          duration: "Oct 2021 - Present",
+          duration: "Oct 2021 - Mar 2022",
           location: "Remote",
           description:
-            "•Developed software solutions using company software•Designed, coded, and debugged applications in various software languages•Worked with project manager and product owners to meet specific needs•Collaborated with other developers to design and optimize software used•Followed software development lifecycle•Documented and maintained software functionality•Gained knowledge of professional software engineering and best practices for full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations•Experienced in Scrum/Agile development methodologies•Acquired familiarity with continuous integration and deployment processes•Used strong analytical and critical thinking skills",
+            "•Developed software solutions using company software\n•Designed, coded, and debugged applications in various software languages.\n•Worked with project manager and product owners to meet specific needs.\n•Collaborated with other developers to design and optimize software used.\n•Followed software development lifecycle.\n•Documented and maintained software functionality.\n•Gained knowledge of professional software engineering and best practices for full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.\n•Experienced in Scrum/Agile development methodologies.\n•Acquired familiarity with continuous integration and deployment processes.\n•Used strong analytical and critical thinking skills•Developed software solutions using company software •Designed, coded, and debugged applications in various software languages •Worked with project manager and product owners to meet specific needs •Collaborated with other developers to design and optimize software used •Followed software development lifecycle •Documented and maintained software functionality •Gained knowledge of professional software engineering and best practices for full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations •Experienced in Scrum/Agile development methodologies •Acquired familiarity with continuous integration and deployment processes •Used strong analytical and critical thinking skills.",
           color: "#0071C5",
         },
         {
@@ -395,7 +350,7 @@ const experience = {
           duration: "Apr 2021 - Jun 2021",
           location: "Remote",
           description:
-            "My time as Software Engineer Intern for Incluvie really helped me get better in a team environment and taught on how to fix bugs and implement different changes in a large codebase. Also gave me a better understanding of a product with many users and creating solutions to enhance the users experience. ",
+            "•Worked in a team-oriented environment to fix bugs and implement different changes in a large codebase.\n•Developed a better understanding of a product with many users and create solutions to enhance the user's experience.\n•Helped implement software to further the site's performance on the Podcast page.\n•Refactored code to raise the Progressive Web App score.\n•Improved the site's semantics, helping it become more accessible for users.",
           color: "#ee3c26",
         },
         {
@@ -406,7 +361,7 @@ const experience = {
           duration: "Jan 2021 - Apr 2021",
           location: "Remote",
           description:
-            "Being the only Web Developer on contract for DNA Masks and More truly increase my ability to critical think of fast and effective solutions. This role also improve my understanding of many  different third party software's being used in one companies codebase.",
+            "•Increased my ability to critically think of fast and effective solutions.\n•Improved my understanding of many different third-party software's being used in one company's codebase.\n•Implemented software to sort multiple items, improving customer order retrieval time by 43%.  \n•Improved UX problems the company faced, increasing the customer return rate by 16%.",
           color: "#0071C5",
         },
         {
@@ -547,35 +502,7 @@ const projects = {
         },
       ],
     },
-    {
-      id: "1",
-      name: "GetFit",
-      url: "https://getfit2.herokuapp.com/",
-      description:
-        "A MERN Stack Application that helps you track your fitness goals day by day with User Authentication",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
-        },
-      ],
-    },
+
     {
       id: "2",
       name: "My K-means",
@@ -594,34 +521,6 @@ const projects = {
         {
           name: "Javascript",
           iconifyClass: "logos-javascript",
-        },
-      ],
-    },
-    {
-      id: "3",
-      name: "Old Portfolio",
-      url: "https://marksweetportfolio.herokuapp.com/",
-      description: "This my MERN stack Portfolio.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
         },
       ],
     },
@@ -655,39 +554,6 @@ const projects = {
       ],
     },
     {
-      id: "3",
-      name: "Subtrack",
-      url: "https://glacial-shore-36326.herokuapp.com/",
-      description:
-        "This applications intention was to help people keep track of their subscriptions along with how much it was costing them per month to help them with their budgeting.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "Javascript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
-        },
-        {
-          name: "MySQL",
-          iconifyClass: "logos-mysql",
-        },
-      ],
-    },
-    {
       id: "4",
       name: "User Directory",
       url: "https://mclarke9k9.github.io/UserDirectory/",
@@ -709,39 +575,6 @@ const projects = {
         {
           name: "React",
           iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      id: "5",
-      name: "Hava-Burger",
-      url: "https://fast-retreat-55192.herokuapp.com/",
-      description:
-        "This application helped me learn how to use ORMs such as Sequelize and software design patterns like MVC.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "logos-html-5",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "logos-css-3",
-        },
-        {
-          name: "Javascript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "React",
-          iconifyClass: "logos-nodejs",
-        },
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-sequelize",
-        },
-        {
-          name: "MySQL",
-          iconifyClass: "logos-mysql",
         },
       ],
     },
