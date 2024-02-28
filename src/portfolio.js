@@ -15,8 +15,7 @@ const greeting = {
   nickname: "AI / Kobe",
   full_name: "Mark Clarke",
   subTitle: "Software Engineer, REST API Expert. Always learning.",
-  resumeLink:
-    "https://docs.google.com/document/d/1OS-0p5zoaT1HHUy0wJeq8jvsqs3fD652uYxpF5yKXao/edit?usp=sharing",
+  resumeLink: "https://bold.pro/my/mark-clarke-240228141826",
   mail: "MClarke9k9@yahoo.com",
 };
 
