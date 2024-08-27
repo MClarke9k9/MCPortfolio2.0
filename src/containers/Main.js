@@ -2,7 +2,7 @@ import React from "react";
 import { Route, Switch, HashRouter } from "react-router-dom";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
-// import Education from "../pages/education/EducationComponent";
+import Education from "../pages/education/EducationComponent";
 import Experience from "../pages/experience/Experience";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
@@ -46,7 +46,7 @@ export default function Main(propss) {
                 />
               )}
             />
-            {/* <Route
+            <Route
               path="/education"
               render={(props) => (
                 <Education
@@ -55,7 +55,7 @@ export default function Main(propss) {
                   setTheme={propss.setTheme}
                 />
               )}
-            /> */}
+            />
             <Route
               path="/contact"
               render={(props) => (
@@ -127,7 +127,7 @@ export default function Main(propss) {
                 />
               )}
             />
-            {/* <Route
+            <Route
               path="/education"
               render={(props) => (
                 <Education
@@ -136,7 +136,7 @@ export default function Main(propss) {
                   setTheme={propss.setTheme}
                 />
               )}
-            /> */}
+            />
             <Route
               path="/contact"
               render={(props) => (
