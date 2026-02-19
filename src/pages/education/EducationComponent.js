@@ -23,7 +23,7 @@ function Education(props) {
                 Education
               </h1>
               <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                Basic Qualifications and Certifications
+                Qualifications and Certifications
               </h3>
               <p
                 className="experience-header-detail-text subTitle"
