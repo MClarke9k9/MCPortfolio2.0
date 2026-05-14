@@ -11,13 +11,19 @@ function Certifications(props) {
       <div className="certs-header-div">
         <Fade bottom duration={2000} distance="20px">
           <h1 className="certs-header" style={{ color: theme.text }}>
-            Degrees and Certifications
+            Certifications
           </h1>
         </Fade>
       </div>
       <div className="certs-body-div">
         {certifications.certifications.map((cert) => {
-          return <CertificationCard certificate={cert} theme={theme} />;
+          return (
+            <CertificationCard
+              key={cert.title}
+              certificate={cert}
+              theme={theme}
+            />
+          );
         })}
       </div>
     </div>

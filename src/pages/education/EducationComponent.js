@@ -29,7 +29,10 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I actively participate gdngfdfhfd
+                I focus on practical certifications that strengthen my work in
+                cloud infrastructure, identity, security, and technical support.
+                These credentials reflect hands-on growth across the platforms
+                and tools I use to solve real operational problems.
               </p>
             </div>
           </div>
