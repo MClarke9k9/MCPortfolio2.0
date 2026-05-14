@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/MCPortfolio2.0/static/css/main.2b2a6364.css",
-    "main.js": "/MCPortfolio2.0/static/js/main.a1c9f192.js",
+    "main.css": "/MCPortfolio2.0/static/css/main.96ed0bb8.css",
+    "main.js": "/MCPortfolio2.0/static/js/main.de52a5f9.js",
     "static/media/localguide.gif": "/MCPortfolio2.0/static/media/localguide.e26297ddb1866fabed6a.gif",
     "static/media/fa-solid-900.svg": "/MCPortfolio2.0/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/MCPortfolio2.0/static/media/fa-brands-400.5f2a2f236048660df440.svg",
+    "static/media/compsecurity+.png": "/MCPortfolio2.0/static/media/compsecurity+.a094b9adad90c3de9473.png",
     "static/media/Montserrat-Regular.ttf": "/MCPortfolio2.0/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/hackathon1.svg": "/MCPortfolio2.0/static/media/hackathon1.83e63808d637feabf365.svg",
     "static/media/mark.jpg": "/MCPortfolio2.0/static/media/mark.99ece07b2ab97c9d5e0f.jpg",
@@ -15,6 +16,7 @@
     "static/media/fa-regular-400.svg": "/MCPortfolio2.0/static/media/fa-regular-400.c803f540f9bff56c95a4.svg",
     "static/media/fa-brands-400.eot": "/MCPortfolio2.0/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "/MCPortfolio2.0/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
+    "static/media/compnetwork+.jpg": "/MCPortfolio2.0/static/media/compnetwork+.ec34ba2b9476eb28c428.jpg",
     "static/media/GoogleSans-Italic.ttf": "/MCPortfolio2.0/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
     "static/media/GoogleSans-MediumItalic.ttf": "/MCPortfolio2.0/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
     "static/media/GoogleSans-BoldItalic.ttf": "/MCPortfolio2.0/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
@@ -26,15 +28,25 @@
     "static/media/fa-brands-400.woff": "/MCPortfolio2.0/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/fa-solid-900.woff2": "/MCPortfolio2.0/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/MCPortfolio2.0/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/azadmin.png": "/MCPortfolio2.0/static/media/azadmin.e70e1fc47070bb84305e.png",
     "static/media/postman.jpg": "/MCPortfolio2.0/static/media/postman.1356637eba0112e97b69.jpg",
+    "static/media/awscloudprac.png": "/MCPortfolio2.0/static/media/awscloudprac.04f92f7ef992d6498205.png",
+    "static/media/azurefun.png": "/MCPortfolio2.0/static/media/azurefun.741e18184e60305b7608.png",
+    "static/media/compA+.png": "/MCPortfolio2.0/static/media/compA+.29b7edd2dc8aaed3be00.png",
+    "static/media/um.png": "/MCPortfolio2.0/static/media/um.237d681cdd8ffd9b2534.png",
     "static/media/localguide.png": "/MCPortfolio2.0/static/media/localguide.adec02396cccb07ba524.png",
     "static/media/postman.png": "/MCPortfolio2.0/static/media/postman.01960bbc426bf10ad378.png",
     "static/media/flutter.png": "/MCPortfolio2.0/static/media/flutter.9a3ca36c54d64801b355.png",
     "static/media/fa-regular-400.eot": "/MCPortfolio2.0/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/MCPortfolio2.0/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/github.png": "/MCPortfolio2.0/static/media/github.237e2214562c441f67b2.png",
+    "static/media/ITIL-4-Certification.webp": "/MCPortfolio2.0/static/media/ITIL-4-Certification.27ab876023a72043d10f.webp",
     "static/media/gdg.png": "/MCPortfolio2.0/static/media/gdg.c8b65793b47f9c4c2f21.png",
+    "static/media/azendpoint.webp": "/MCPortfolio2.0/static/media/azendpoint.c619b64779812e96d214.webp",
+    "static/media/azexpert.png": "/MCPortfolio2.0/static/media/azexpert.7ccb47c93b20aea62e5d.png",
     "static/media/cwoc.png": "/MCPortfolio2.0/static/media/cwoc.d8ba3957097e6ca71d91.png",
+    "static/media/azIAM.png": "/MCPortfolio2.0/static/media/azIAM.47b7667f5c725aa0cd0e.png",
+    "static/media/gcpcert.png": "/MCPortfolio2.0/static/media/gcpcert.f77800a6959d068dcd3c.png",
     "static/media/googleAssistant.jpg": "/MCPortfolio2.0/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/dna.jpg": "/MCPortfolio2.0/static/media/dna.1696a6c033655664640b.jpg",
     "static/media/fa-regular-400.woff": "/MCPortfolio2.0/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
@@ -43,11 +55,12 @@
     "static/media/buld.jpg": "/MCPortfolio2.0/static/media/buld.55444b9789a64f32e2e5.jpg",
     "static/media/mlh-logo.svg": "/MCPortfolio2.0/static/media/mlh-logo.d48e27dc116c04b190de.svg",
     "index.html": "/MCPortfolio2.0/index.html",
-    "main.2b2a6364.css.map": "/MCPortfolio2.0/static/css/main.2b2a6364.css.map",
-    "main.a1c9f192.js.map": "/MCPortfolio2.0/static/js/main.a1c9f192.js.map"
+    "static/media/itil.svg": "/MCPortfolio2.0/static/media/itil.adfc32a87011637452c6.svg",
+    "main.96ed0bb8.css.map": "/MCPortfolio2.0/static/css/main.96ed0bb8.css.map",
+    "main.de52a5f9.js.map": "/MCPortfolio2.0/static/js/main.de52a5f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b2a6364.css",
-    "static/js/main.a1c9f192.js"
+    "static/css/main.96ed0bb8.css",
+    "static/js/main.de52a5f9.js"
   ]
 }
